@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Terbeche/NodeJs-Practice-Express/issues"
   },
-  "homepage": "https://github.com/Terbeche/NodeJs-Practice-Express#readme"
+  "homepage": "https://github.com/Terbeche/NodeJs-Practice-Express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
